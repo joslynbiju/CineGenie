@@ -11,6 +11,12 @@ The project includes four main Python files:
 3. **image_generator.py**: Sends scene descriptions to an image generation API, creating and saving the resulting images.
 4. **video_creator.py**: Compiles generated images into a video file.
 
+## Screenplay
+
+The screenplay for "The Pursuit of Happyness" is included in this project. You can find it in the following location:
+
+- **[Screenplay PDF](screenplay/the-pursuit-of-happyness-2006.pdf)**
+
 ## Example Output
 
 ### Screenshots
