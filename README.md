@@ -11,6 +11,15 @@ The project includes four main Python files:
 3. **image_generator.py**: Sends scene descriptions to an image generation API, creating and saving the resulting images.
 4. **video_creator.py**: Compiles generated images into a video file.
 
+## Example Output
+
+### Screenshots
+
+Below are sample images generated from the scenes:
+
+![Scene Image 1](screenshots/scene_1.png)
+![Scene Image 2](screenshots/scene_2.png)
+
 ## Requirements
 
 - **Python 3.7+**
